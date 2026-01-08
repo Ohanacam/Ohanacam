@@ -24,5 +24,3 @@ Minha principal linguagem é **Python**, e gosto de criar soluções que envolve
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerautomate.svg" alt="Power Automate"/></code>
-
----
