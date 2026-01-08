@@ -7,15 +7,12 @@ Minha principal linguagem é **Python**, e gosto de criar soluções que envolve
 
 💬 Fique à vontade para explorar meus repositórios ou trocar ideias sobre tecnologia 😊
 
----
-
 ## 🌐 Minhas Redes
 
 <a href="https://www.linkedin.com/in/ohana-santos" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
----
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/micropython/micropython.png" alt="MicroPython"/></code>
